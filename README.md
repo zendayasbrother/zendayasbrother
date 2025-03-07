@@ -2,7 +2,7 @@
 
 Here are some tidbits so you can know me better: 
 
-- 💻 I specialise in Python and know the basics of languages including R and C# 
+- 💻 I specialise in Python + C# and know the basics of languages including R and C# 
 - 👀 My interests are: content creation, computing science and art
 - ⚙️ I’m currently learning modules like data science and SDD
 - 🫱🏻‍🫲🏾 I am looking to secure a part time job before Apr 2025
