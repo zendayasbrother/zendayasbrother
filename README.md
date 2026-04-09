@@ -1,12 +1,19 @@
-**Hi there, my name's Daniel Onyeakazi: a UK based content creator and CS student (he/him)**
+Daniel Onyeakazi
 
-Get to know me better with these tidbits: 
+Computer Science Student | Content Creator | Exploring Accessibility with Data
 
-- 🖥️ I specialise in Java, Python and SQL currently in university, and have foundational knowledge C# 
-- 👀 My interests are: the creator economy, game theory and UX 
-- 🕹️ I've been creating vide content for three years, hoping to pivot to more substantial + vulnerable content
-- 🫱🏻‍🫲🏾 I am looking to secure interships in fields that utilise quantitative, analytical and communication skills (data, marketing, etc)
-- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-onyeakazi-315b92262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) / furydco@outlook.com
-- 🦎 Fun facts: My favourite media genre is science fiction (love to the Matrix trilogy) and got into CS because of accessibility
+Bridging the gap between technical logic and human-centric storytelling. Currently pursuing a CS degree with a focus on building data-driven solutions and engaging digital experiences
 
+* Technical Stack: Java, Python, SQL (Core) | C# (Foundational)
 
+* Core Skills: Data Analysis, UX Research, Video Production, Quantitative Problem Solving
+
+* Seeking: Internship opportunities in Data Analytics, Growth Marketing, or Product Strategy
+
+Let’s Connect 
+
+* Email: furydco@outlook.com
+
+* [LinkedIn Profile](https://www.linkedin.com/in/daniel-onyeakazi-315b92262?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+
+* Fun Fact: I am hard of hearing (which is reflected in one of my projects) and one of my favourite genres is sci-fi
