@@ -1,6 +1,6 @@
-Daniel Onyeakazi
+#Daniel Onyeakazi
 
-Computer Science Student | Content Creator | Exploring Accessibility with Data
+##Computer Science Student | Content Creator | Exploring Accessibility with Data
 
 Bridging the gap between technical logic and human-centric storytelling. Currently pursuing a CS degree with a focus on building data-driven solutions and engaging digital experiences
 
