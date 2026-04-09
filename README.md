@@ -1,14 +1,14 @@
-#Daniel Onyeakazi
+### Daniel Onyeakazi
 
-##Computer Science Student | Content Creator | Exploring Accessibility with Data
+Computer Science Student | Content Creator | Exploring Accessibility with Data
 
 Bridging the gap between technical logic and human-centric storytelling. Currently pursuing a CS degree with a focus on building data-driven solutions and engaging digital experiences
 
-* Technical Stack: Java, Python, SQL (Core) | C# (Foundational)
+* **Technical Stack:** Java, Python, SQL (Core) | C# (Foundational)
 
-* Core Skills: Data Analysis, UX Research, Video Production, Quantitative Problem Solving
+* **Core Skills:** Data Analysis, UX Research, Video Production, Quantitative Problem Solving
 
-* Seeking: Internship opportunities in Data Analytics, Growth Marketing, or Product Strategy
+* **Seeking:** Internship opportunities in Data Analytics, Growth Marketing, or Product Strategy
 
 Let’s Connect 
 
