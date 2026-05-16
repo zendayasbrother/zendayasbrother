@@ -3,7 +3,7 @@
 
 * **Core Skills:** Data Analysis, UX Research, Video Production, Quantitative Problem Solving
 
-* **Current Focus:** (Trilateral-Export-Vis) - D3.js dashboard revamp | Encrypt OS: ERP for (hypothetical) Diversification IP Holdings
+* **Current Focus:** (Trilateral-Export-Vis) - Plotly / D3.js dashboard revamp | EC Simulator - DS / ML Prediction Project
 
 * Contact: furydco@outlook.com | [LinkedIn Profile](https://www.linkedin.com/in/daniel-onyeakazi-315b92262?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
