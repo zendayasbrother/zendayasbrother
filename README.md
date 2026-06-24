@@ -1,6 +1,6 @@
 Aspiring Data Scientist with a focus on Mathematical and Predictive Modelling. 
 
-Currently developing the SWAT site; a culminative demonstration of two E2E Data Projects of mine: an EDA based Sino-West African Trade Intelligence Dashboard + Energy and Currency API predictor 
+Currently developing: SWAT pt 2 - Energy and Currency Case Study | AWS + Cloud Computing Projects
 
 ## Skills / Tech Stack:
  
